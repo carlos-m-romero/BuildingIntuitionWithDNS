@@ -23,13 +23,6 @@ In this tutorial, let's simplify things and make it easy to understand DNS. We'l
 - Microsoft Azure with two pre-configured VMs: Client-1 and DC-1
 - Microsoft Active Directory installed on DC-1 and promoted to a domain controller
 
-## Video Demonstration
-To make it even easier for you to understand DNS concepts and the exercises we'll be doing, we've prepared a video demonstration. This video will guide you visually through the steps involved in building intuition with DNS.  Further down there are some notes and screenshots provided for highlights of some or all of the material.
-
-### [Building Intuition with DNS](https://drive.google.com/file/d/1hh8iskP98lgcyR_fRVLUTXlAIvu7UoWn/view?usp=drive_link)
-
-Now, let's jump into the lab exercises and explore DNS A-Records, DNS caching, and CNAME records.
-
 ## Lab Steps
 
 **A-Record Exercise**
